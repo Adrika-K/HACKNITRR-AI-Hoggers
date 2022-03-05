@@ -40,7 +40,3 @@ def return_file():
         return str(e)
 
 app.run()
-# @app.route('/display/<filename>')
-# def display_video(filename):
-# 	#print('display_video filename: ' + filename)
-# 	return redirect(url_for('static/video_1.mp4', code=200))
