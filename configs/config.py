@@ -6,7 +6,7 @@ Conf = 0.3
 Threshold = 0.3
 
 
-Needtheuseofgpu = False
+Needtheuseofgpu = True
 
 distanceminimum = 50
 
